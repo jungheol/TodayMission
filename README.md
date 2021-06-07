@@ -11,3 +11,10 @@
 - 미션별 좋아요, 후기 작성 기능
 - 미션 완료 및 좋아요 포인트 획득 기능
 - 전체 사용자의 랭킹 확인 기능
+
+### 대표 이미지
+![그림1](https://user-images.githubusercontent.com/79863514/120994080-1f22fe00-c7bf-11eb-88af-393c47dec5c0.png)  ![그림2](https://user-images.githubusercontent.com/79863514/120994341-5beef500-c7bf-11eb-8926-e8529d20c9ba.png)  ![그림3](https://user-images.githubusercontent.com/79863514/120994416-6b6e3e00-c7bf-11eb-8dbc-4c4eea062493.png)
+
+
+
+
